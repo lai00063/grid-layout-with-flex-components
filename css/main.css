@@ -31,4 +31,5 @@ body {
   .icon {
     font-size: 4rem;
     align-self: center;
+    order:-1;
   }
